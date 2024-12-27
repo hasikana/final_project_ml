@@ -1,0 +1,22 @@
+# Book metadata
+title: "Banknote Authentication Project"
+author: "Hasika Nalgonda"
+logo: "logo.png"
+language: "en"
+
+# Book theme
+theme:
+  name: "sphinx_book_theme"
+  logo_only: true
+  home_page_in_toc: true
+  navbar_footer_text: "My Portfolio"
+
+# JupyterBook options
+launch_buttons:
+  binderhub_url: "https://mybinder.org"
+  colab_url: "https://colab.research.google.com/"
+  notebook_interface: "classic"
+
+repository:
+  url: "https://github.com/hasikana/final_project_ml"
+  path_to_book: ""

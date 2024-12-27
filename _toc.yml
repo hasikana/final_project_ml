@@ -1,0 +1,11 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+  - file: resume            # Resume section
+  - file: video             # Embedded video
+  - file: final_code        # Final code explanation
+  - file: resources         # Links to MLFlow, Docker, etc.
+  - file: markdown-notebooks # Data exploration/preprocessing
